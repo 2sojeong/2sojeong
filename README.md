@@ -36,9 +36,10 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sojeong&langs_count=10&layout=compact&theme=white)](https://github.com/2sojeong/2sojeong)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sojeong&layout=compact)
+
 </br>
-</br>
+
 
 ## 📫 Contact 📫
 
