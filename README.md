@@ -6,7 +6,7 @@
 
 </br>
 
-## :raised_hands: About Me
+## :raised_hands: About Me :raised_hands:
 
 - 現) 가천 카카오엔터프라이즈 SW아카데미 4기 (2024.03.04 ~ )
 - 現) 가천대학교 AI•소프트웨어학부 소프트웨어전공 재학 (4학년 1학기 재학중)
