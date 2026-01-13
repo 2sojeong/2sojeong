@@ -12,7 +12,8 @@
 
 ## :raised_hands: About Me :raised_hands:
 
-- 現) 가천대학교 AI•소프트웨어학부 소프트웨어전공 재학
+- 現) 메가존클라우드 CloudOps팀 백엔드 인턴 (2025.11.03 ~
+- 前) 가천대학교 AI•소프트웨어학부 소프트웨어전공 재학
 - 前) 카카오엔터프라이즈 클라우드CV팀 교육전략파트 인턴 (2024.10.14 ~ 2024.12.31)
 - 前) 가천 카카오엔터프라이즈 SW아카데미 4기 (2024.03.04 ~ 2024.08.29)
 - 前) 가천 코코네스쿨 Freenergy 프론트엔드 개발자
@@ -23,15 +24,11 @@
 
 ### ✨ Tech Stack ✨
 
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" /> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 
-### 📚 Studying 📚
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 
 ### 🛠 Tools 🛠
 
@@ -39,11 +36,7 @@
   
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" /> <img src="https://img.shields.io/badge/jira-white.svg?style=for-the-badge&logo=jira&logoColor=0052CC" />
 
-</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sojeong&layout=compact)
-
-</br>
 
 
 ## 📫 Contact 📫
